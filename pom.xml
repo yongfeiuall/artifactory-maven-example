@@ -2,5 +2,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.izheyi.www</groupId>
   <artifactId>ArtifactoryJenkins</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
 </project>
