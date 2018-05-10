@@ -6,7 +6,7 @@ public class MavenSample {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This for testing artifactory, github and jenkins");
-		System.out.println("trigger with commit");
+		System.out.println("trigger with commi");
 
 	}
 
